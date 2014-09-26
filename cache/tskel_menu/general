@@ -1,0 +1,5 @@
+
+menu 90.9 TSke&l.General.Snippets.c) :call tskeleton#ExpandBitUnderCursor("n", 'c)')<cr>
+imenu 90.9 TSke&l.General.Snippets.c) <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'c)')<cr>
+menu 90.9 TSke&l.General.Snippets.date :call tskeleton#ExpandBitUnderCursor("n", 'date')<cr>
+imenu 90.9 TSke&l.General.Snippets.date <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'date')<cr>

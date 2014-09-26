@@ -1,0 +1,15 @@
+
+menu 90.19 TSke&l.Snippets.#! :call tskeleton#ExpandBitUnderCursor("n", '#!')<cr>
+imenu 90.19 TSke&l.Snippets.#! <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", '#!')<cr>
+menu 90.19 TSke&l.Snippets.case :call tskeleton#ExpandBitUnderCursor("n", 'case')<cr>
+imenu 90.19 TSke&l.Snippets.case <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'case')<cr>
+menu 90.19 TSke&l.Snippets.elif :call tskeleton#ExpandBitUnderCursor("n", 'elif')<cr>
+imenu 90.19 TSke&l.Snippets.elif <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'elif')<cr>
+menu 90.19 TSke&l.Snippets.for :call tskeleton#ExpandBitUnderCursor("n", 'for')<cr>
+imenu 90.19 TSke&l.Snippets.for <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'for')<cr>
+menu 90.19 TSke&l.Snippets.if :call tskeleton#ExpandBitUnderCursor("n", 'if')<cr>
+imenu 90.19 TSke&l.Snippets.if <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'if')<cr>
+menu 90.19 TSke&l.Snippets.until :call tskeleton#ExpandBitUnderCursor("n", 'until')<cr>
+imenu 90.19 TSke&l.Snippets.until <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'until')<cr>
+menu 90.19 TSke&l.Snippets.wh :call tskeleton#ExpandBitUnderCursor("n", 'wh')<cr>
+imenu 90.19 TSke&l.Snippets.wh <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'wh')<cr>

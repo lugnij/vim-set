@@ -1,0 +1,11 @@
+
+menu 90.19 TSke&l.Snippets.cl :call tskeleton#ExpandBitUnderCursor("n", 'cl')<cr>
+imenu 90.19 TSke&l.Snippets.cl <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'cl')<cr>
+menu 90.19 TSke&l.Snippets.map :call tskeleton#ExpandBitUnderCursor("n", 'map')<cr>
+imenu 90.19 TSke&l.Snippets.map <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'map')<cr>
+menu 90.19 TSke&l.Snippets.ns :call tskeleton#ExpandBitUnderCursor("n", 'ns')<cr>
+imenu 90.19 TSke&l.Snippets.ns <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'ns')<cr>
+menu 90.19 TSke&l.Snippets.readfile :call tskeleton#ExpandBitUnderCursor("n", 'readfile')<cr>
+imenu 90.19 TSke&l.Snippets.readfile <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'readfile')<cr>
+menu 90.19 TSke&l.Snippets.vector :call tskeleton#ExpandBitUnderCursor("n", 'vector')<cr>
+imenu 90.19 TSke&l.Snippets.vector <c-\><c-o>:call tskeleton#ExpandBitUnderCursor("i", 'vector')<cr>
